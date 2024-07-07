@@ -6,6 +6,6 @@ Module 3:
 </video>
 
 Module 4:
-- <video width="640" height="400" controls>
-    <source src="video1276810085_pMfBUarr (1).mp4" type="video/mp4">
-  </video>
+<video width="640" height="400" controls>
+  <source src="video1276810085_pMfBUarr (1).mp4" type="video/mp4">
+</video>

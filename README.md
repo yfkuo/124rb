@@ -4,11 +4,9 @@
 <video width="640" height="480" controls>
   <source src="video1997825436_ocPkgQ0y (2).mp4" type="video/mp4">
 </video>
-
-** (Module 3) **
+<ins> Module 3 <ins>
 
 <video width="640" height="480" controls>
   <source src="video1276810085_pMfBUarr (1).mp4" type="video/mp4">
 </video>
-
-** (Module 4) **
+<ins> Module 4 <ins>

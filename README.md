@@ -2,11 +2,18 @@
 
 ## Here are the videos about the programs I built:
 
-<b> Module 3:</b>
-<video width="640" height="480" controls style="margin: 0; padding: 0;">
-  <source src="video1997825436_ocPkgQ0y (2).mp4" type="video/mp4">
-</video>
-<b> Module 4:</b>
-<video width="640" height="480" controls style="margin: 0; padding: 0;">
-  <source src="video1276810085_pMfBUarr (1).mp4" type="video/mp4">
-</video>
+**Module 3:**
+<div style="margin: 0; padding: 0;">
+  <video width="640" height="480" controls style="margin: 0; padding: 0;">
+    <source src="video1997825436_ocPkgQ0y (2).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+**Module 4:**
+<div style="margin: 0; padding: 0;">
+  <video width="640" height="480" controls style="margin: 0; padding: 0;">
+    <source src="video1276810085_pMfBUarr (1).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
